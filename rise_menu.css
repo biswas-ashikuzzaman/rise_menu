@@ -106,3 +106,10 @@ body{
         border: 1px solid #ccc;
         z-index: 999;
     }
+    .dropdown-menu li a {
+        color: black;
+        padding: 10px;
+      }
+      .dropdown:hover .dropdown-menu {
+        display: block;
+      }
